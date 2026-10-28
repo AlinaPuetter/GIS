@@ -5,4 +5,5 @@ Einführung in QGIS
 
 ## Einheit 1:
 Datenklassifizierung
-https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/BERLIN_LOR_BEV19.png
+![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/BERLIN_LOR_BEV19.png)
+
