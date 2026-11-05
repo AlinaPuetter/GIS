@@ -1,6 +1,10 @@
 # GIS
 ## Einheit 0: Einführung in QGIS - Monitoring Soziale Stadtentwicklung
 ### Vor- und Nachteile der Methode
+
+Die verwendete Methode ermöglicht eine mehrdimensionale Betrachtung der sozialen Struktur Berlins, da Indikatoren wie Arbeitslosigkeit, Transferleistungsbezug und Kinderarmut miteinander kombiniert werden. Daraus folgt eine besonders deutliche Darstellung der prägnant benachteiligten Gebiete Berlins.
+Aber genau durch diese Kombination können Einzelinformationen, sprich, die oben genannten Indikatoren, verloren gehen. Hier ist nicht deutlich erkennbar, welcher Indikator ausschlaggebend für die Einstufung ist.
+
 ![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/MSS_2025.png)
 
 ## Einheit 1: Datenklassifizierung
