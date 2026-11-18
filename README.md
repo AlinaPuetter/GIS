@@ -25,4 +25,4 @@ Dennoch wird die Flächengröße nicht berücksichtigt und ein verzerrtes Bild �
 
 ## Einheit 2: Georeferenzieren und Digitalisieren
 ### Kurzbeschreibung
-![enter image description here]()
+![enter image description here](Berlin1833_Puetter_neu.png)
