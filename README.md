@@ -31,7 +31,8 @@ Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
 ## Einheit 3: Standortanalyse
-### Kurzbeschreibung: Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten wir einen geeigneten Ort für ein weiteres Klärwerk finden. Dafür wurden im Vorhinein sieben Kriterien bestimmt, um einerseits die Wahl einzugrenzen, aber andererseits auch, um einen geeigneten Ort zu finden. Beispielsweise konnten hier natürlich keine Naturschutzgebiete oder Wohngebiete dafür genutzt werden.
+### Kurzbeschreibung:
+Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten wir einen geeigneten Ort für ein weiteres Klärwerk finden. Dafür wurden im Vorhinein sieben Kriterien bestimmt, um einerseits die Wahl einzugrenzen, aber andererseits auch, um einen geeigneten Ort zu finden. Beispielsweise konnten hier natürlich keine Naturschutzgebiete oder Wohngebiete dafür genutzt werden.
 ### Die genauen Kriterien waren wie folgt:
 - Mindestens 500 m von Naturschutzgebieten entfernt
 - Nicht im Wasser
