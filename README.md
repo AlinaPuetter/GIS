@@ -38,8 +38,8 @@ Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten 
 - Nicht im Wasser
 - mindestens 500m von Wohngebieten entfernt
 - maximal 1500m von Wohngebieten entfernt
-- Maximal 500m von Autobahnen entfernt
-- In Berlin
+- maximal 500m von Autobahnen entfernt
+- in Berlin
 - Mindestgröße 1 ha
 
 #### Berlin Überblick
