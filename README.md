@@ -31,7 +31,16 @@ Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
 ## Einheit 3: Standortanalyse
-### Kurzbeschreibung:
+### Kurzbeschreibung: Mit gegebenen Daten haben wir 
+
+
+Mindestens 500 m von Naturschutzgebieten entfernt
+Nicht im Wasser
+Mindestens 500 m von Wohngebieten entfernt
+Maximal 1500m von Wohngebieten entfernt
+Maximal 500m von Autobahnen entfernt
+In Berlin
+Mindestgröße 1 ha
 #### Berlin Überblick
 ![enter image description here](Bild_Berlingroß.png)
 #### Berlin herangezoomt
