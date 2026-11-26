@@ -31,16 +31,16 @@ Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
 ## Einheit 3: Standortanalyse
-### Kurzbeschreibung: Mit gegebenen Daten haben wir 
+### Kurzbeschreibung: Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten wir einen geeigneten Ort für ein weiteres Klärwerk finden. Dafür wurden im Vorhinein sieben Kriterien bestimmt, um einerseits die Wahl einzugrenzen, aber andererseits auch, um einen geeigneten Ort zu finden. Beispielsweise konnten hier natürlich keine Naturschutzgebiete oder Wohngebiete dafür genutzt werden.
+### Die genauen Kriterien waren wie folgt:
+- Mindestens 500 m von Naturschutzgebieten entfernt
+- Nicht im Wasser
+- mindestens 500m von WOhngebieten entfernt
+- maximal 1500m von WOhngebieten entfernt
+- Maximal 500m von Autobahnen entfernt
+- In Berlin
+- Mindestgröße 1 ha
 
-
-Mindestens 500 m von Naturschutzgebieten entfernt
-Nicht im Wasser
-Mindestens 500 m von Wohngebieten entfernt
-Maximal 1500m von Wohngebieten entfernt
-Maximal 500m von Autobahnen entfernt
-In Berlin
-Mindestgröße 1 ha
 #### Berlin Überblick
 ![enter image description here](Bild_Berlingroß.png)
 #### Berlin herangezoomt
