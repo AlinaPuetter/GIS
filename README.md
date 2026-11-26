@@ -29,3 +29,10 @@ Wir haben mittels Google Labels und Google Satellite ein Bezugssystem für die K
 Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben wir auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wuren.
 
 ![enter image description here](Berlin1833_Puetter_neu.png)
+
+## Einheit 3: Standortanalyse
+### Kurzbeschreibung:
+#### Berlin Überblick
+![enter image description here](Bild_Berlingroß.png)
+#### Berlin herangezoomt
+![enter image description here](Bild_Berlingezoomt.png)
