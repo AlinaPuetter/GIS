@@ -4,8 +4,9 @@
 
 Die verwendete Methode ermöglicht eine mehrdimensionale Betrachtung der sozialen Struktur Berlins, da Indikatoren wie Arbeitslosigkeit, Transferleistungsbezug und Kinderarmut miteinander kombiniert werden. Daraus folgt eine besonders deutliche Darstellung der prägnant benachteiligten Gebiete Berlins.
 Aber genau durch diese Kombination können Einzelinformationen, sprich, die oben genannten Indikatoren, verloren gehen. Hier ist nicht deutlich erkennbar, welcher Indikator ausschlaggebend für die Einstufung ist.
-Hier wurden ...
+Hier wurde ermittelt, in welchen Stadtteilen welche Statusklasse besonders vertreten war. Diese Unterschiede wurden farblich gekennzeichnet und in einer Legende festgehalten.
 
+#### Soziale Stadtentwicklung
 ![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/MSS_2025.png)
 
 ## Einheit 1: Datenklassifizierung
@@ -22,12 +23,13 @@ Dennoch wird die Flächengröße nicht berücksichtigt und ein verzerrtes Bild �
 
 **Karte D** *(rechts unten)* kann diese Größenordnung der Bevölkerungsdichte gut vergleichen, die Farbklassen werden hier auch quantitativ deutlich bedeutsamer als in Karte C. Auffällig ist hier allerdings die nicht vollständige Ausschöpfung der Farbskala wie in den Karten A bis C.
 
+#### Vier Arten der Bevölkerungszahldarstellung Berlins
 ![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/BERLIN_LOR_BEV19.png)
 
 ## Einheit 2: Georeferenzieren und Digitalisieren
 ### Uniprojekt: Die Tore, die nach Berlin führten.
 Wir haben mittels Google Labels und Google Satellite ein Bezugssystem für die Karte Berlins aus dem Jahr 1833 geschaffen.
-Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben wir auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wurden.
+Wir haben geographisch markante Datenpunkte, hauptsächlich Tore (Kotbusser Tor, Frankfurter Tor, etc.), referenziert und zusätzlich auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wurden.
 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
