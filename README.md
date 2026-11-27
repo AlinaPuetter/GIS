@@ -26,8 +26,7 @@ Dennoch wird die Flächengröße nicht berücksichtigt und ein verzerrtes Bild �
 ![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/BERLIN_LOR_BEV19.png)
 
 ## Einheit 2: Georeferenzieren und Digitalisieren
-
-### Uniprojekt: Die Tore, die nach Berlin führten.
+### Uniprojekt: Die Tore, die nach Berlin einluden; Straßen, die leiteten und Flächen, die schmückten
 Wir haben mittels Google Labels und Google Satellite ein Bezugssystem für die Karte Berlins aus dem Jahr 1833 geschaffen.
 Wir haben geographisch markante Datenpunkte, hauptsächlich Tore (Kotbusser Tor, Frankfurter Tor, etc.), referenziert und zusätzlich auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wurden.
 
@@ -39,9 +38,7 @@ Hier sollten wir in Bezug auf Kirchen Berlins eine eigene Datenbank erstellen. D
 #### Berlins Kirchen, mit der 1833er-Stadtkarte und der entsprechenden Datenbank
 ![enter image description here](Berlin1833_Aufgabe3_4.png)
 
-
 ## Einheit 3: Standortanalyse
-
 ### Kurzbeschreibung:
 Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten wir einen geeigneten Ort für ein weiteres Klärwerk finden. Dafür wurden im Vorhinein sieben Kriterien bestimmt, um einerseits die Wahl einzugrenzen, aber andererseits auch, um einen geeigneten Ort zu finden. Beispielsweise konnten hier natürlich keine Naturschutzgebiete oder Wohngebiete dafür genutzt werden.
 
