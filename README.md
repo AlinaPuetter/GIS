@@ -24,9 +24,9 @@ Dennoch wird die Flächengröße nicht berücksichtigt und ein verzerrtes Bild �
 ![enter image description here](https://raw.githubusercontent.com/AlinaPuetter/GIS/refs/heads/main/BERLIN_LOR_BEV19.png)
 
 ## Einheit 2: Georeferenzieren und Digitalisieren
-### Kurzbeschreibung:
+### Uniprojekt: Die Tore, die nach Berlin führten.
 Wir haben mittels Google Labels und Google Satellite ein Bezugssystem für die Karte Berlins aus dem Jahr 1833 geschaffen.
-Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben wir auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wuren.
+Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben wir auch neue Layer erstellt, in denen Polygone (Gebäude, Grünflächen etc.), Linien (Straßen) und Punkte (Hedwigs Kathedrale, heutigen Mehringplatz etc.) eingefügt wurden.
 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
