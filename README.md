@@ -30,6 +30,13 @@ Wir haben markante geographische Datenpunkte referenziert und zusätzlich haben 
 
 ![enter image description here](Berlin1833_Puetter_neu.png)
 
+### Heimprojekt: Kirchen 1833
+Hier sollten wir in Bezug auf Kirchen Berlins eine eigene Datenbank erstellen. Dafür sollten mindestens fünf Kirchen und sechs Datenbankaspekte erstellt werden. Dafür sollten wir Punktgeometrien nutzen.
+
+#### Berlins Kirchen, mit der 1833er-Stadtkarte und der entsprechenden Datenbank
+![enter image description here](Berlin1833_Aufgabe3_4.png)
+
+
 ## Einheit 3: Standortanalyse
 ### Kurzbeschreibung:
 Mit gegebenen Daten haben wir eine Standortanalyse vorgenommen. Hierbei sollten wir einen geeigneten Ort für ein weiteres Klärwerk finden. Dafür wurden im Vorhinein sieben Kriterien bestimmt, um einerseits die Wahl einzugrenzen, aber andererseits auch, um einen geeigneten Ort zu finden. Beispielsweise konnten hier natürlich keine Naturschutzgebiete oder Wohngebiete dafür genutzt werden.
